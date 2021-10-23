@@ -43,7 +43,7 @@ blockquote{
 .firstquote{
   position: relative;
   display: flex;
-  background-color: black;
+  background-color: green;
   height: 250px;
   width: 900px;
   color: white;
@@ -71,7 +71,7 @@ blockquote{
 .secondquote{
   position: relative;
   display: flex;
-  background-color: black;
+  background-color: green;
   height: 250px;
   width: 900px;
   color: white;
@@ -102,7 +102,7 @@ h3{
 .theardquote{
   position: relative;
   display: flex;
-  background-color: black;
+  background-color: green;
   height: 250px;
   width: 900px;
   color: white;
