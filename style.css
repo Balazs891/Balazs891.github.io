@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Josefin+Sans:wght@500&family=Merriweather:ital@1&display=swap');
+
+.header{
+ height: 523px;
+ width: 100%;
+ margin-top: -270px;
+ margin-bottom: 70px;
+ color: #222;
+ font-family: 'Abril Fatface', cursive;
+}
+
+img{
+  position: static;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+  height: 318px;
+  width: 100%;
+}
+
+.title{
+   position: relative;
+   top: 385px;
+   left: -315px;
+   font-size: 30px;
+}
+
+.header h1{
+  position: relative;
+  top: 330px;
+  margin-left: 355px;
+  font-size: 70px;
+}
+
+ul{
+  list-style-type: square;
+}
+
+blockquote{
+ margin-left: 430px;
+}
+
+.firstquote{
+  position: relative;
+  display: flex;
+  background-color: black;
+  height: 250px;
+  width: 900px;
+  color: white;
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Abril Fatface', cursive;
+  justify-content: center;
+  align-items: center;
+  margin-left: 350px;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-top: 67px;
+}
+
+.notable{
+  margin-top: 67px;
+  text-align: center;
+  color: #222;
+  font-family: 'Merriweather', serif;
+}
+blockquote{
+  font-size: 20px;
+}
+
+.secondquote{
+  position: relative;
+  display: flex;
+  background-color: black;
+  height: 250px;
+  width: 900px;
+  color: white;
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Abril Fatface', cursive;
+  justify-content: center;
+  align-items: center;
+  margin-left: 350px;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-top: 67px;
+}
+
+.experience{
+  margin-top: 67px;
+  text-align: center;
+  color: #222;
+  font-family: 'Merriweather', serif;
+}
+
+h3{
+  text-align: center;
+  color: #222;
+  font-family: 'Merriweather', serif;
+}
+
+.theardquote{
+  position: relative;
+  display: flex;
+  background-color: black;
+  height: 250px;
+  width: 900px;
+  color: white;
+  text-align: center;
+  font-size: 70px;
+  font-family: 'Abril Fatface', cursive;
+  justify-content: center;
+  align-items: center;
+  margin-left: 350px;
+  padding-left: 70px;
+  padding-right: 70px;
+  margin-top: 67px;
+}
+
+.formal{
+  margin-top: 67px;
+  text-align: center;
+  color: #222;
+  font-family: 'Merriweather', serif;
+}
+
+.interests{
+   margin-top: 134px;
+   margin-bottom: 71px;
+   text-align: center;
+   color: #222;
+   font-family: 'Merriweather', serif;
+}
+
+.idezojel{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
